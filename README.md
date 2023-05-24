@@ -1,2 +1,2 @@
 # RPS-game
-Rock-Paper-Scissor game
+Simple Rock-Paper-Scissor game that I made back in 2021
